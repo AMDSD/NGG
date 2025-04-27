@@ -1,0 +1,2 @@
+# NGG
+Practice C++
